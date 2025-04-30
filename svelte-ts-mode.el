@@ -328,7 +328,7 @@ If HOW is :prepend, just prepend NEW-RULES to the old rules; if HOW is
               'javascript
             'typescript)
         (if ts-ready
-            'typescrpt
+            'typescript
           (if js-ready
               'javscript
             'svelte))))
